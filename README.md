@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Víctor</h1>
-<h3 align="center">A frontend and backend programmer opened for new ideas.</h3>
+<h3 align="center">A frontend and backend developer opened for new ideas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/víctor pérez ramírez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="víctor pérez ramírez" height="30" width="40" /></a>
-<img align="center" src="gmail.svg"> <p> vicperamirez@gmail.com </p>
+<img align="center" src="gmail.svg" height="30" width="40"> <p> = vicperamirez@gmail.com </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
